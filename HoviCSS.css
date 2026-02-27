@@ -172,7 +172,7 @@
 #mainLogo{
     content: url('https://i.postimg.cc/pXRXHDnD/image.png');
     margin-top: 180% !important;
-    transform: scale(1.2) !important;
+    transform: scale(2) !important;
     will-change: transform, opacity;
     filter:
         drop-shadow(0 0 8px rgba(255,215,120,0.8))
@@ -992,3 +992,4 @@ div:nth-child(1)>.compTScrB {
 .chatItem{
     color : #fbc02d !important;
 }
+
